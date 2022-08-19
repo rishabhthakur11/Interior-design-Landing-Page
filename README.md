@@ -7,7 +7,7 @@
 ![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--10-lightgrey)
 
 
-## Project 10 [Live Link](https://live-proj-10.netlify.app)
+## Project 10 [Live Link](https://interior-design-landingpage-tau.vercel.app)
 
 -   Skills Gained in this project
     -   Learned to use **background-image** with **lienar-gradient**.
